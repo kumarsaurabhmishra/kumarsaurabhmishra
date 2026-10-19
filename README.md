@@ -90,11 +90,11 @@ Quality      → Automated tests · Validation · Observability · Accessible UX
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarsaurabhmishra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9&rank_icon=github" alt="Saurabh's GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsaurabhmishra&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Saurabh's GitHub streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=kumarsaurabhmishra&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Saurabh's GitHub streak" />
 
 <br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kumarsaurabhmishra&bg_color=0d1117&color=c9d1d9&line=818cf8&point=22d3ee&area=true&hide_border=true" alt="Saurabh's contribution graph" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumarsaurabhmishra&theme=github_dark" alt="Saurabh's contribution summary" />
 
 </div>
 
